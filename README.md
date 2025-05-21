@@ -1,6 +1,8 @@
 # Projet Java - Gestion de Bibliothèque (sans Maven)
 
 ## Description
+Sur mon PC j'ai des petits soucis qui font que j'ai des erreurs maven donc j'ai fait sans.
+
 Application console Java simple pour gérer une bibliothèque de livres : ajout, suppression, recherche, affichage.
 
 ## Structure
